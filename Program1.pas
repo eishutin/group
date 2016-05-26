@@ -1,7 +1,5 @@
 begin
  writeln('Our group:');
- writeln('1.Alisa');
- writeln('2.Zhenia');
- writeln('3.Vanya');
- writeln('4.Danya');
+ writeln('1.Alisa Amens');
+ writeln('2.Zhenia Eshutin');
 end.
